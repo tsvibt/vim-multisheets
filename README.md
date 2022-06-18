@@ -3,7 +3,7 @@
 
 Vim-multisheets is a vim plugin that displays 2-dimensional slices of N-dimensional arrays. The N-dimensional array is defined by specifying values of cells pointwise or with python functions.
 
-This readme gives details of how to use vim-multisheets; see this blog post https://tsvibt.blogspot.com/2022/06/multisheets-multi-dimensional.html for a general description, real demonstrations, and motivation for the idea of multisheets. 
+This readme gives details of how to use vim-multisheets; see this [blog post](https://tsvibt.blogspot.com/2022/06/multisheets-multi-dimensional.html) for a general description, real demonstrations, and motivation for the idea of multisheets. 
 
 ## Installation
 
@@ -189,7 +189,7 @@ cyclic groups have at most 1 element of order 2
 """
 ```
 
-(See blog post https://tsvibt.blogspot.com/2022/06/multisheets-multi-dimensional.html for details about this math question; this question is the example in ```vim-multisheets/example/```.)
+(See this [blog post](https://tsvibt.blogspot.com/2022/06/multisheets-multi-dimensional.html) for details about this math question; this question is the example in ```vim-multisheets/example/```.)
 
 If there are >2 splits, the penultimate one is interpreted as a python function giving the result of the proposition. E.g.:
 
