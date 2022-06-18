@@ -1,0 +1,5 @@
+source   target   classifier 
+Group Group Endomorphisms
+
+classify injective group homomorphisms from source to target, up to composition with automorphisms from the given group of automorphisms of the target group
+
